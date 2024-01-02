@@ -1,3 +1,3 @@
 # new.demo
-This is my first <br>Git Repository
+This is my first Git Repository
 Author - shreyanshi goswami
